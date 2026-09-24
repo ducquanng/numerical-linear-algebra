@@ -1,0 +1,451 @@
+{
+  "stability": [
+    {
+      "n": 2,
+      "condition": 19.281470067903967,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 1.2361722586587723e-16,
+      "reconstruction_error": 0.0
+    },
+    {
+      "n": 2,
+      "condition": 19.281470067903967,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 1.2361722586587723e-16,
+      "reconstruction_error": 0.0
+    },
+    {
+      "n": 2,
+      "condition": 19.281470067903967,
+      "algorithm": "Householder",
+      "orthogonality_error": 2.274855499368561e-16,
+      "reconstruction_error": 2.496862611767768e-16
+    },
+    {
+      "n": 2,
+      "condition": 19.281470067903967,
+      "algorithm": "Givens",
+      "orthogonality_error": 1.2361722586587723e-16,
+      "reconstruction_error": 0.0
+    },
+    {
+      "n": 3,
+      "condition": 524.0567775860627,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 6.447629306233047e-14,
+      "reconstruction_error": 3.9416605260453055e-17
+    },
+    {
+      "n": 3,
+      "condition": 524.0567775860627,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 8.581695040991233e-15,
+      "reconstruction_error": 1.9708302630226528e-17
+    },
+    {
+      "n": 3,
+      "condition": 524.0567775860627,
+      "algorithm": "Householder",
+      "orthogonality_error": 7.933357908619039e-16,
+      "reconstruction_error": 5.258227292741903e-16
+    },
+    {
+      "n": 3,
+      "condition": 524.0567775860627,
+      "algorithm": "Givens",
+      "orthogonality_error": 3.535247876748686e-16,
+      "reconstruction_error": 2.11780001746723e-16
+    },
+    {
+      "n": 4,
+      "condition": 15513.738738929662,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 3.45496790819569e-11,
+      "reconstruction_error": 2.6164469961947247e-17
+    },
+    {
+      "n": 4,
+      "condition": 15513.738738929662,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 2.9865008464300823e-13,
+      "reconstruction_error": 3.700214827248925e-17
+    },
+    {
+      "n": 4,
+      "condition": 15513.738738929662,
+      "algorithm": "Householder",
+      "orthogonality_error": 1.2107450501646218e-15,
+      "reconstruction_error": 7.996381973764048e-16
+    },
+    {
+      "n": 4,
+      "condition": 15513.738738929662,
+      "algorithm": "Givens",
+      "orthogonality_error": 2.950676143996508e-16,
+      "reconstruction_error": 1.854389834217266e-16
+    },
+    {
+      "n": 5,
+      "condition": 476607.2502419338,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 5.4990681996442856e-08,
+      "reconstruction_error": 3.19307319254725e-17
+    },
+    {
+      "n": 5,
+      "condition": 476607.2502419338,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 1.209229182109093e-11,
+      "reconstruction_error": 5.1733331223548214e-17
+    },
+    {
+      "n": 5,
+      "condition": 476607.2502419338,
+      "algorithm": "Householder",
+      "orthogonality_error": 4.905735323157221e-16,
+      "reconstruction_error": 2.0639729477616698e-16
+    },
+    {
+      "n": 5,
+      "condition": 476607.2502419338,
+      "algorithm": "Givens",
+      "orthogonality_error": 3.005855646980581e-16,
+      "reconstruction_error": 9.207423900945029e-17
+    },
+    {
+      "n": 6,
+      "condition": 14951058.64177819,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 0.00019836181363283177,
+      "reconstruction_error": 8.572357166696774e-18
+    },
+    {
+      "n": 6,
+      "condition": 14951058.64177819,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 2.5067791136993947e-10,
+      "reconstruction_error": 2.903503809386552e-17
+    },
+    {
+      "n": 6,
+      "condition": 14951058.64177819,
+      "algorithm": "Householder",
+      "orthogonality_error": 7.824657652515811e-16,
+      "reconstruction_error": 6.442830409125412e-16
+    },
+    {
+      "n": 6,
+      "condition": 14951058.64177819,
+      "algorithm": "Givens",
+      "orthogonality_error": 7.102207060678621e-16,
+      "reconstruction_error": 1.4067336031355847e-16
+    },
+    {
+      "n": 7,
+      "condition": 475367356.8766496,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 0.5681595242211969,
+      "reconstruction_error": 3.2847566836575375e-17
+    },
+    {
+      "n": 7,
+      "condition": 475367356.8766496,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 8.863060520506642e-09,
+      "reconstruction_error": 2.9370574913791245e-17
+    },
+    {
+      "n": 7,
+      "condition": 475367356.8766496,
+      "algorithm": "Householder",
+      "orthogonality_error": 1.0842199913859794e-15,
+      "reconstruction_error": 6.75093034455802e-16
+    },
+    {
+      "n": 7,
+      "condition": 475367356.8766496,
+      "algorithm": "Givens",
+      "orthogonality_error": 9.564700909589523e-16,
+      "reconstruction_error": 2.0542426824508698e-16
+    },
+    {
+      "n": 8,
+      "condition": 15257575563.722723,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 1.0075195226448952,
+      "reconstruction_error": 4.4907876615006717e-17
+    },
+    {
+      "n": 8,
+      "condition": 15257575563.722723,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 2.561601069982065e-07,
+      "reconstruction_error": 4.389474754385374e-17
+    },
+    {
+      "n": 8,
+      "condition": 15257575563.722723,
+      "algorithm": "Householder",
+      "orthogonality_error": 9.698886089616835e-16,
+      "reconstruction_error": 5.082817202282593e-16
+    },
+    {
+      "n": 8,
+      "condition": 15257575563.722723,
+      "algorithm": "Givens",
+      "orthogonality_error": 6.095224307889996e-16,
+      "reconstruction_error": 1.8558870342819434e-16
+    },
+    {
+      "n": 9,
+      "condition": 493153322841.38226,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 2.00277654684923,
+      "reconstruction_error": 4.5889413382875166e-17
+    },
+    {
+      "n": 9,
+      "condition": 493153322841.38226,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 7.343757754817809e-06,
+      "reconstruction_error": 3.9574939623248974e-17
+    },
+    {
+      "n": 9,
+      "condition": 493153322841.38226,
+      "algorithm": "Householder",
+      "orthogonality_error": 1.445338446339478e-15,
+      "reconstruction_error": 1.606624196903253e-16
+    },
+    {
+      "n": 9,
+      "condition": 493153322841.38226,
+      "algorithm": "Givens",
+      "orthogonality_error": 7.598130805777371e-16,
+      "reconstruction_error": 1.4264582171603905e-16
+    },
+    {
+      "n": 10,
+      "condition": 16024980732174.455,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 3.0019545979162006,
+      "reconstruction_error": 4.618788303729317e-17
+    },
+    {
+      "n": 10,
+      "condition": 16024980732174.455,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 0.00010431373087811102,
+      "reconstruction_error": 4.424960801773517e-17
+    },
+    {
+      "n": 10,
+      "condition": 16024980732174.455,
+      "algorithm": "Householder",
+      "orthogonality_error": 1.0198750720473572e-15,
+      "reconstruction_error": 9.21954824651999e-16
+    },
+    {
+      "n": 10,
+      "condition": 16024980732174.455,
+      "algorithm": "Givens",
+      "orthogonality_error": 9.595818897339412e-16,
+      "reconstruction_error": 2.3673443703151365e-16
+    },
+    {
+      "n": 11,
+      "condition": 522478077916828.5,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 3.998833397611341,
+      "reconstruction_error": 4.214979968746538e-17
+    },
+    {
+      "n": 11,
+      "condition": 522478077916828.5,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 0.006369337465633687,
+      "reconstruction_error": 5.3707109891205017e-17
+    },
+    {
+      "n": 11,
+      "condition": 522478077916828.5,
+      "algorithm": "Householder",
+      "orthogonality_error": 1.446597943887531e-15,
+      "reconstruction_error": 3.448347891537794e-16
+    },
+    {
+      "n": 11,
+      "condition": 522478077916828.5,
+      "algorithm": "Givens",
+      "orthogonality_error": 6.324157551750242e-16,
+      "reconstruction_error": 1.8415827351620838e-16
+    },
+    {
+      "n": 12,
+      "condition": 1.6425917529444498e+16,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 4.999342283967699,
+      "reconstruction_error": 3.9056668080468385e-17
+    },
+    {
+      "n": 12,
+      "condition": 1.6425917529444498e+16,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 0.23102964923968602,
+      "reconstruction_error": 3.934783535090257e-17
+    },
+    {
+      "n": 12,
+      "condition": 1.6425917529444498e+16,
+      "algorithm": "Householder",
+      "orthogonality_error": 1.150687851913159e-15,
+      "reconstruction_error": 3.8807097325971815e-16
+    },
+    {
+      "n": 12,
+      "condition": 1.6425917529444498e+16,
+      "algorithm": "Givens",
+      "orthogonality_error": 1.0835403364402231e-15,
+      "reconstruction_error": 9.383350418106971e-17
+    },
+    {
+      "n": 13,
+      "condition": 4.4936679531246986e+18,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 5.994866359940714,
+      "reconstruction_error": 4.7576917930778065e-17
+    },
+    {
+      "n": 13,
+      "condition": 4.4936679531246986e+18,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 0.9873383394315058,
+      "reconstruction_error": 4.7478017252073204e-17
+    },
+    {
+      "n": 13,
+      "condition": 4.4936679531246986e+18,
+      "algorithm": "Householder",
+      "orthogonality_error": 1.8800861245318904e-15,
+      "reconstruction_error": 3.675664369777488e-16
+    },
+    {
+      "n": 13,
+      "condition": 4.4936679531246986e+18,
+      "algorithm": "Givens",
+      "orthogonality_error": 1.1544135592280506e-15,
+      "reconstruction_error": 1.11227584978938e-16
+    },
+    {
+      "n": 14,
+      "condition": 3.2198422552156205e+17,
+      "algorithm": "Classical Gram-Schmidt",
+      "orthogonality_error": 6.633518552250741,
+      "reconstruction_error": 3.6928114939544113e-17
+    },
+    {
+      "n": 14,
+      "condition": 3.2198422552156205e+17,
+      "algorithm": "Modified Gram-Schmidt",
+      "orthogonality_error": 0.9627475387244121,
+      "reconstruction_error": 5.0052521123990037e-17
+    },
+    {
+      "n": 14,
+      "condition": 3.2198422552156205e+17,
+      "algorithm": "Householder",
+      "orthogonality_error": 1.710955824857001e-15,
+      "reconstruction_error": 5.479832206928252e-16
+    },
+    {
+      "n": 14,
+      "condition": 3.2198422552156205e+17,
+      "algorithm": "Givens",
+      "orthogonality_error": 1.3425648971159708e-15,
+      "reconstruction_error": 4.021441089648322e-16
+    }
+  ],
+  "convergence": [
+    {
+      "ratio": 0.2,
+      "iterations": 19,
+      "observed_rate": 0.19999911272966198,
+      "converged": true,
+      "error": 1.1102230246251565e-16
+    },
+    {
+      "ratio": 0.5,
+      "iterations": 42,
+      "observed_rate": 0.49999831353594065,
+      "converged": true,
+      "error": 0.0
+    },
+    {
+      "ratio": 0.8,
+      "iterations": 124,
+      "observed_rate": 0.799995256478737,
+      "converged": true,
+      "error": 0.0
+    },
+    {
+      "ratio": 0.95,
+      "iterations": 513,
+      "observed_rate": 0.950006708014237,
+      "converged": true,
+      "error": 1.1102230246251565e-16
+    },
+    {
+      "ratio": 0.99,
+      "iterations": 2456,
+      "observed_rate": 0.9899898001367328,
+      "converged": true,
+      "error": 2.220446049250313e-16
+    }
+  ],
+  "pagerank": {
+    "power": [
+      0.2024084991483187,
+      0.13085977689355768,
+      0.23989865697283136,
+      0.18855344082200565,
+      0.09825963965498835,
+      0.14001998650829828
+    ],
+    "eigen": [
+      0.20240849914847286,
+      0.13085977689344155,
+      0.23989865697275176,
+      0.18855344082210881,
+      0.0982596396549381,
+      0.14001998650828681
+    ],
+    "iterations": 41
+  },
+  "eigenfaces": [
+    {
+      "k": 5,
+      "power_svd": 0.6916666666666667,
+      "sklearn_pca": 0.6916666666666667
+    },
+    {
+      "k": 10,
+      "power_svd": 0.8333333333333334,
+      "sklearn_pca": 0.8333333333333334
+    },
+    {
+      "k": 20,
+      "power_svd": 0.8916666666666667,
+      "sklearn_pca": 0.8916666666666667
+    },
+    {
+      "k": 40,
+      "power_svd": 0.8833333333333333,
+      "sklearn_pca": 0.8916666666666667
+    },
+    {
+      "k": 80,
+      "power_svd": 0.8916666666666667,
+      "sklearn_pca": 0.8916666666666667
+    }
+  ]
+}
